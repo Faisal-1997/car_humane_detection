@@ -1,8 +1,11 @@
-# GoLang REST API With Kubernetes Helm Chart EXAMPLE Project
+<img src="https://github.com/Faisal-1997/car_humane_detection/blob/master/notebooks/air%20finder.png" alt="Watch the series" width="800" height="180" border="10" />
 
-## A fully functional EXAMPLE project written in Go showing how to create a REST API and deploy to Kubernetes!
 
-This project is an example that was built along with a Youtube Series showing how to create a custom REST API in Golang. Every part of this project is sample code which shows how to do the following:
+# Air Finder 
+
+## this project is use yolo8 to detect Humen and
+
+:
 
 - Create a custom web server with Golang using HTTPRouter
 - Create a simple REST API that serves Youtube stats (as an example use case)
@@ -16,6 +19,9 @@ This project is an example that was built along with a Youtube Series showing ho
 <a href="https://www.youtube.com/playlist?list=PLSvCAHoiHC_rqKbcu1ummWVpLTDBNZHH7" target="_blank">
 <img src="http://img.youtube.com/vi/SiGxu2N9ndU/mqdefault.jpg" alt="Watch the series" width="240" height="180" border="10" />
 </a>
+
+
+
 
 ## How to install this example Golang project on Kubernetes
 
