@@ -7,11 +7,10 @@
 - Full dataset whit lables <a href="https://drive.google.com/drive/folders/1E6o3plOD4dk4FNviIkdF5clSspf9R3xM?usp=drive_link" target="_blank">drive link<a/>
 - <a href="https://airfinderapp-eljtznrgk5mrdkhjaalzff.streamlit.app/" target="_blank">website<a/>
 
-## detection video
+## Detection video
 <a href="https://www.youtube.com/watch?v=-zF3a5BVEvc" target="_blank">
 <img src="https://github.com/Faisal-1997/car_humane_detection/blob/master/notebooks/airfinder20.png?raw=true" alt="Watch the series" width="240" height="180" border="10" />
 </a>
-
 
 ## Libraries used in the project
 1. Ultralytics
