@@ -3,7 +3,7 @@
 #### We use yolov8 on costem dataset to detect humen and car our use cause is for searching for missing pepole in the desert or places hard to access, and send notification to the email when detecting the object inclouding the photo in the notification
 
 - traing the model on local dataset class annotation(car = 0 , person =1) in ropoflow <a href="https://app.roboflow.com/faisalt5/airfinder/3" target="_blank"> link <a/>
-- Full dataset <a href="https://drive.google.com/drive/folders/1E6o3plOD4dk4FNviIkdF5clSspf9R3xM?usp=drive_link" target="_blank">drive link<a/>
+- Full dataset whit lables <a href="https://drive.google.com/drive/folders/1E6o3plOD4dk4FNviIkdF5clSspf9R3xM?usp=drive_link" target="_blank">drive link<a/>
 
 ## video real detect
 <a href="https://www.youtube.com/watch?v=-zF3a5BVEvc" target="_blank">
