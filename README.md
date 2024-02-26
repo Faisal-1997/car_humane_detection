@@ -1,4 +1,4 @@
-<img src="https://github.com/Faisal-1997/car_humane_detection/blob/master/notebooks/air%20finder.png" alt="Watch the series" width="1000" height="180" border="10" />
+<img src="https://github.com/Faisal-1997/car_humane_detection/blob/master/notebooks/img/air%20finder.png" alt="Watch the series" width="1000" height="180" border="10" />
 
 ### We use yolov8 on custom dataset to detect humen and cars 
 #### our use cause is for searching for missing pepole in the desert or places hard to access, and send notification to the email when detecting the object inclouding the photo in the notification
@@ -9,7 +9,7 @@
 
 ## Detection video
 <a href="https://www.youtube.com/watch?v=-zF3a5BVEvc" target="_blank">
-<img src="https://github.com/Faisal-1997/car_humane_detection/blob/master/notebooks/airfinder20.png?raw=true" alt="Watch the series" width="240" height="180" border="10" />
+<img src="https://github.com/Faisal-1997/car_humane_detection/blob/master/notebooks/img/airfinder20.png?raw=true" alt="Watch the series" width="240" height="180" border="10" />
 </a>
 
 ## Libraries used in the project
