@@ -12,12 +12,11 @@
 ### Model 
 - by using Yolov8n we traind the model on custom dataset to detect pepole and cars using 250 epochs and save the best (class_loss=0.49 ,box_loss=0.64)
   
-### deployment
+### Deployment
 - Install Raspberry Pi OS 
-- Deploy the model on the raspberry pi 4  and Install it on the drone
+- Deployment the model on the raspberry pi 4  and Install it on the drone
   
 <img src="https://github.com/Faisal-1997/car_humane_detection/blob/master/img/drone_3.jpg?raw=true" alt="Watch the series" width="240" height="180" border="10" />  <img src="https://github.com/Faisal-1997/car_humane_detection/blob/master/img/drone_2.jpg?raw=true" alt="Watch the series" width="240" height="180" border="10" />  <img src="https://github.com/Faisal-1997/car_humane_detection/blob/master/img/drone_1.jpg?raw=true" width="240" height="180" border="10" />
-
 
 ### Result
 - our demo video (click in img)
