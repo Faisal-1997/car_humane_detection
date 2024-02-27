@@ -10,7 +10,8 @@
 
 
 ### Model 
-- by using Yolov8n we traind the model on custom dataset to detect pepole and cars using 250 epochs and save the best (class_loss=0.49 ,box_loss=0.64)
+- by using Yolov8n we traind the model on custom dataset to detect pepole and cars using 250 epochs and save the best
+- (class_loss=0.49 ,box_loss=0.64)
   
 ### Deployment
 - Install Raspberry Pi OS 
@@ -24,7 +25,7 @@
 <img src="https://github.com/Faisal-1997/car_humane_detection/blob/master/img/airfinder20.png?raw=true" alt="Watch the series" width="600" height="330" border="22" />
 </a>
 
-## Lib
+### Lib
 1. Ultralytics
 2. Opencv
 
